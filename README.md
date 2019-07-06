@@ -1,4 +1,4 @@
 # Archimate
-Es una abierta e independiente arquitectura de la empresa lenguaje de modelado para apoyar la descripción, análisis y visualización de la arquitectura dentro ya través de negocios dominios de forma inequívoca.
+is an open and independent enterprise architecture modeling language to support the description, analysis and visualization of architecture within and across business domainsin an unambiguous way.
 
-ArchiMate es un estándar técnico de The Open Group y se basa en los conceptos del estándar IEEE 1471 
+ArchiMate is a technical standard from The Open Group and is based on the concepts of the IEEE 1471 standard.
